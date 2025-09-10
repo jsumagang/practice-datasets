@@ -1,0 +1,10 @@
+Timestamp,coding_lvl,undergrad_lvl,major,hours_sleep,countries_visited,multilingual,code_languages_learned,topic_interest [Data Collection],topic_interest [Machine Learning],topic_interest [Database Development],topic_interest [Data Visualization],activity_interest [Collaborative dataset analysis],activity_interest [Guest speaker events],activity_interest [Data collection activity],activity_interest [Data science skill workshops],activity_interest [Competitive dataset analysis],activity_interest [Python/R/SQL practice],activity_interest [Game related data collection],"activity_interest [Data Science related films, media]",daily_caffeine,cat_or_dog,pref_superpower,pref_element
+9/10/2025 12:18:46,3,Senior,Computer science ,7,2,Yes,"Python, Java, C++, R, SQL",2,4,1,3,3,3,2,3,3,1,1,2,No,Cat,Flight,Water
+9/10/2025 12:19:15,2,Junior,Ag supply chain,7,1,Yes,"Python, Java",4,1,2,3,2,3,2,3,2,3,2,3,Yes,Cat,Mind reading,Water
+9/10/2025 12:20:14,1,Sophmore,"Business information systems, business analytics ",7,1,Yes,Python,4,2,1,3,2,3,3,2,2,2,3,3,Yes,Cat,Mind reading,Earth
+9/10/2025 12:20:20,4,Senior,Computer science,7,4,Yes,"Python, C++, SQL",1,4,3,2,2,3,2,3,3,3,2,2,No,Dog,Time travel,Fire
+9/10/2025 12:20:41,3,Senior,Computer Science,5,4,No,"Python, Java, C++, SQL",1,2,4,3,2,2,1,1,2,1,1,1,Yes,Cat,Time travel,Water
+9/10/2025 12:22:43,3,Senior,Computer Science,7.5,2,Yes,"Python, Java, C++, SQL",4,3,2,1,1,2,1,1,2,2,2,1,No,Dog,Teleportation,Water
+9/10/2025 12:24:25,4,Senior,Computer Science,8,2,No,"Python, Java, SQL",3,2,4,1,2,1,2,2,2,1,2,1,Yes,Dog,Communication with animals,Earth
+9/10/2025 12:26:17,3,Senior,Comp Sci,7,3,Yes,"Python, Java, C++, SQL",4,2,3,1,3,3,3,3,3,3,3,3,No,Cat,Super strength,Air
+9/10/2025 12:26:17,3,Senior,Computer Science,5.5,3,No,"Python, Java, C++",3,4,1,2,2,2,2,2,3,2,1,2,No,Dog,Time travel,Water
